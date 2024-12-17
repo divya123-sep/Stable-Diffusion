@@ -1,4 +1,4 @@
-🌟## Stable Diffusion Image Generation Project🌟
+## 🌟Stable Diffusion Image Generation Project🌟
 
 This repository demonstrates how to generate stunning images using Stable Diffusion, an advanced text-to-image generation model powered by the 🧠 Hugging Face Diffusers library.
 
