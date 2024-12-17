@@ -22,13 +22,9 @@ This repository demonstrates how to generate stunning images using Stable Diffus
 
 ## Installation 📦
 1️⃣Clone this repository:
-bash
-Copy code
 git clone https://github.com/yourusername/stable-diffusion-image-generation.git
 cd stable-diffusion-image-generation
 Install the required Python packages:
-bash
-Copy code
 pip install --upgrade diffusers transformers torch tqdm pandas numpy matplotlib opencv-python
 Ensure you have CUDA installed for GPU acceleration.
 
